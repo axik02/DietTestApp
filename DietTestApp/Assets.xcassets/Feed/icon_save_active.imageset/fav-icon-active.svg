@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="29px" viewBox="0 0 21 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>fav-icon-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test" transform="translate(-121.000000, -509.000000)" fill="#FEC202" fill-rule="nonzero">
+            <g id="like/favorite" transform="translate(29.000000, 509.000000)">
+                <path d="M111.875,29 C111.64325,29 111.413,28.9274649 111.218,28.7839914 L102.5,22.3971307 L93.782,28.7839914 C93.4385,29.0350701 92.987,29.0701753 92.61125,28.8740439 C92.23625,28.6786758 92,28.2848868 92,27.8552294 L92,4.9605203 C92,2.22536572 94.187,0 96.875,0 L108.125,0 C110.813,0 113,2.22536572 113,4.9605203 L113,27.8552294 C113,28.2848868 112.76375,28.6786758 112.388,28.8740439 C112.226,28.9579912 112.0505,29 111.875,29 Z" id="fav-icon-active"></path>
+            </g>
+        </g>
+    </g>
+</svg>
